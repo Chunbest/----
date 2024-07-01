@@ -1,0 +1,170 @@
+html {
+  font-size: 100%;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.head {
+  border-bottom: 1px solid rgb(230, 223, 223);
+  border-radius: 0px 0px 10px 10px;
+  align-items: center;
+  margin: 0px 50px;
+}
+.meau-content-1 {
+  display: flex;
+  align-items: center;
+  padding-top: 2px;
+  padding-bottom: 10px;
+  width: 100%;
+  justify-content: space-around;
+  margin: 0px;
+}
+.meau-content-2 {
+  display: flex;
+  align-items: center;
+  padding-top: 2px;
+  padding-bottom: 10px;
+  width: 100%;
+  justify-content: space-around;
+  margin: 0px 20px;
+}
+
+.img1 {
+  padding: 0px 0px 0px 20px;
+  align-items: flex-start;
+}
+.nav-mean {
+  display: flex;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+.nav-meau-item {
+  display: flex;
+  font-size: 18px;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px 20px;
+  font-weight: 900;
+  color: rgb(110, 106, 106);
+}
+.nav-meau-item-1 {
+  font-size: 15px;
+  font-weight: 1000;
+  color: rgb(110, 106, 106);
+}
+.border1 {
+  border: 1.5px solid rgb(190, 186, 186);
+  border-top: 0;
+  border-bottom: 0;
+}
+.border2 {
+  border-right: none;
+}
+.side-nav-mean {
+  align-items: center;
+  margin-bottom: 0;
+}
+.right {
+  display: flex;
+  align-items: center;
+  padding-right: 50px;
+}
+/* banner */
+.pic {
+  height: 400px;
+  weight: auto;
+  background-image: url(./image/coffee.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  display: flex;
+  flex-direction: column;
+}
+.pic-text {
+  color: white;
+  height: 100%;
+  font-weight: 900;
+  font-size: 50px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  line-height: 300px;
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  align-items: center;
+}
+.main-list {
+  padding-left: 0;
+}
+.imfo1 {
+  list-style-type: none;
+  padding: 8px 0px;
+}
+.imfor2 {
+  text-align: justify;
+}
+.div1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  gap: 30px;
+  justify-content: center;
+}
+.display {
+  display: flex;
+  align-items: flex-start;
+}
+
+h3 {
+  border-bottom: 1.5px solid;
+  text-align: left;
+  padding-right: 80px;
+}
+.h3-1 {
+  padding-right: 20px;
+}
+.li3 {
+  list-style-type: none;
+  text-align: center;
+  border-radius: 8px;
+  background-color: black;
+  color: rgb(238, 215, 87);
+  padding: 5px;
+  margin: 30px 0px;
+}
+.a1 {
+  text-decoration: none;
+  color: rgb(238, 215, 87);
+}
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+h4 {
+  text-align: center;
+  border-radius: 8px;
+  background-color: black;
+  padding: 5px;
+  margin: 10px;
+  color: rgb(238, 215, 87);
+}
+.youtube-ig {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0;
+}
+
+.end {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: small;
+  padding: 10px 0px;
+}
