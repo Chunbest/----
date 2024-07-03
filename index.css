@@ -79,7 +79,7 @@ body {
 .pic {
   height: 400px;
   weight: auto;
-  background-image: url("/image/coffee.jpg");
+  background-image: url("coffee.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size:cover;
