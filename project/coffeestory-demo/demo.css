@@ -78,8 +78,7 @@ body {
 /* banner */
 .pic {
   height: 400px;
-   width: auto;
-  background-image: url("./image/coffee.jpg");
+  width: auto;
   background-repeat: no-repeat;
   background-position: center;
   background-size:cover;
