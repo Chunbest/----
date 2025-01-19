@@ -2,7 +2,12 @@
 <rss version="2.0">
     <channel>
         <title>Chun&#39;s Blog</title>
+        <subtitle>勇敢踏出是改變的開始</subtitle>
+        <icon>http://example.com/assets/favicon.ico</icon>
         <link>http://example.com</link>
+        <author>
+          <name>Chun Lin</name>
+        </author>
         <description>從 0 到無限</description>
         <language>en</language>
         <pubDate>Tue, 07 Jan 2025 23:31:20 +0800</pubDate>
